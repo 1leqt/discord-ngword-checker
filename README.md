@@ -55,3 +55,7 @@ Discord（Web版）でメッセージを送信する際、あらかじめ設定�
 - **送信ボタン**: マウスクリックによる送信ボタン（絵文字欄の横などにある場合）には現在対応していません。`Enter` キー送信のみ対応しています。
 
 ---
+
+## Special Thanks
+- Code: [Claude](https://claude.ai/)
+- README.md: [ChatGpt](https://chatgpt.com)
