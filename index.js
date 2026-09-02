@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         Discord 送信前NGワードチェッカー
-// @namespace    https://example.com/discord-ngword-checker
+// @name         Discord NGWORD CHECKER
+// @namespace    https://example.com/
 // @version      1.0.0
 // @description  Discordでメッセージ送信前に登録したNGワードと照合し、該当時は確認ダイアログを表示する
 // @author       you
